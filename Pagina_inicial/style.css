@@ -16,7 +16,7 @@
     border: none;
     text-decoration: none;
     text-transform: capitalize;
-    transition: .2s linear;
+    transition: .5s linear;
 }
 
 html{
@@ -230,7 +230,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(fundo.jpg);
+    background:url(imagens/fundo.jpg);
     background-size: cover;
     background-position: center;
 }
