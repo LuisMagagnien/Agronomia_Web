@@ -218,14 +218,24 @@ section{
     right: 2rem;
 }
 
-.home {
+
+.home{
     min-height: 100vh;
     display: flex;
     align-items: center;
     background: url(imagens/fundo.jpg);
+}
+
+.home{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background:url(fundo.jpg);
     background-size: cover;
     background-position: center;
 }
+
+
 
 
 .home .content h3{
@@ -761,6 +771,7 @@ navigation-auto div:not(:last-child){
 
 
 
+
 @media (max-width: 991px){
     html{
         font-size: 55%;
@@ -838,4 +849,6 @@ navigation-auto div:not(:last-child){
     background-color: #0056A0;
     transform: scale(1.1); /* Estica o botão em 10% ao passar o mouse */
 }
+
+
 
