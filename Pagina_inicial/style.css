@@ -15,14 +15,15 @@ h1{
     color: #fff;
 }
 .d1{
-    background-color: rgb(200, 223, 137);
+    background-color: #99b3e9;
     width: 15%;
     padding: 30px 10px;
     margin-left: 30%;
     border-radius: 8px;
+
 }
 .d2{
-    background-color: rgb(147, 147, 147);
+    background-color: #99b3e9;
     width: 25%;
     padding: 30px 10px;
     margin-left: 60%;
@@ -31,7 +32,7 @@ h1{
 }
 
 .d3{
-    background-color: rgb(254, 171, 171);
+    background-color: #99b3e9;
     width: 15%;
     padding: 30px 10px;
     margin-left: 20%;
