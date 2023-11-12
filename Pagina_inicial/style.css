@@ -9,9 +9,10 @@ body{
     background-repeat: no-repeat;
 }
 h1{
+    background-color: #0000007d;
     text-align: center;
     padding: 20px;
-    font-size: 40px;
+    font-size: 45px;
     color: #fff;
 }
 .d1{
@@ -20,7 +21,7 @@ h1{
     padding: 30px 10px;
     margin-left: 30%;
     border-radius: 8px;
-
+    margin-top: 10px;
 }
 .d2{
     background-color: #99b3e9;
